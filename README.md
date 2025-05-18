@@ -15,7 +15,3 @@ This repository contains a Power BI report analyzing YouTube statistics, created
 1. Download the `.pbix` file.
 2. Open it in Power BI Desktop to explore the interactive report.
 3. Use the "Go to Details" button to navigate to the Detailed Analysis page (note: navigation is not available in the PDF).
-
-## Notes
-- The report is missing a heading and logo (to be added as per Task 12).
-- The AvgViewsLast30Days value (176M) may need verification due to a potential data anomaly.
